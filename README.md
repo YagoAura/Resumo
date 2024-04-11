@@ -51,6 +51,7 @@
     <li>Tenho Exeperiência com Banco de Dados</li>
     <li>Exeperiência com Back-end</li>
 </ul>
+    <img src="https://th.bing.com/th/id/OIP.woBUNcgtzACyYn-p0gNKOgHaFj?w=229&h=180&c=7&r=0&o=5&pid=1.7" alt="">
 </div>
 </body>
 </html>
